@@ -1,4 +1,11 @@
-## Hi there 👋
+
+- 🌱 Programador Web
+- 🚀 Trabalhando na Cooperja
+- 📫 Contato: joaovictorcomin2005@gmail.com
+- 🌐 Instagram [@joaovcomin](https://www.instagram.com/joaovcomin?igsh=MWxmM3ltNHA2cGxsbg==)
+
+![cat-typing](https://github.com/user-attachments/assets/abcb100d-8c36-4d75-8426-b339f9cd199e)
+
 
 <!--
 **Joao-Comin/Joao-Comin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
