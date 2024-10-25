@@ -1,5 +1,5 @@
 
-- 🌱 Programador Web
+- 🌱 Programador
 - 🚀 Trabalhando na Cooperja
 - 📫 Contato: joaovictorcomin2005@gmail.com
 - 🌐 Instagram [@joaovcomin](https://www.instagram.com/joaovcomin?igsh=MWxmM3ltNHA2cGxsbg==)
