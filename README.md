@@ -1,11 +1,12 @@
-
-- 🌱 Programador
-- 🚀 Trabalhando na Cooperja
-- 📫 Contato: joaovictorcomin2005@gmail.com
-- 🌐 Instagram [@joaovcomin](https://www.instagram.com/joaovcomin?igsh=MWxmM3ltNHA2cGxsbg==)
+👋 **Olá! Eu sou João Victor Comin**
+- 🌱 **Programador Júnior** com experiência em desenvolvimento de aplicações web.
+- 🚀 **Atualmente trabalhando na Cooperja**, onde estou aprendendo e aplicando tecnologias como PHP,Laravel, Tailwind CSS, Alpine.js,
+- Livewire, TallStack e Filament.
+- 📫 **Entre em contato**: [joaovictorcomin2005@gmail.com](mailto:joaovictorcomin2005@gmail.com)
+- 🌐 **Siga-me no Instagram**: [@joaovcomin](https://www.instagram.com/joaovcomin?igsh=MWxmM3ltNHA2cGxsbg==)
+- 💼 **Meu LinkedIn**: [João Victor Comin](https://www.linkedin.com/in/joaovictorcomin)
 
 ![cat-typing](https://github.com/user-attachments/assets/abcb100d-8c36-4d75-8426-b339f9cd199e)
-
 
 <!--
 **Joao-Comin/Joao-Comin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
