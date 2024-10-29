@@ -1,6 +1,6 @@
 # 👋 **Olá! Eu sou João Victor Comin**
-- 🌱 **Desenvolvedor** com experiência em desenvolvimento de aplicações web.
-- 🚀 **Atualmente trabalhando na Cooperja**, onde estou aprendendo e aplicando tecnologias como PHP,Laravel, Tailwind CSS, Alpine.js, Livewire, TallStack e Filament.
+- 🌱 **Desenvolvedor**.
+- 🚀 **Estou aprendendo** e aplicando tecnologias como PHP,Laravel, Tailwind CSS, Alpine.js, Livewire, TallStack e Filament.
 - 📫 **Entre em contato**: [joaovictorcomin2005@gmail.com](mailto:joaovictorcomin2005@gmail.com)
 - 🌐 **Siga-me no Instagram**: [@joaovcomin](https://www.instagram.com/joaovcomin?igsh=MWxmM3ltNHA2cGxsbg==)
 - 💼 **Meu LinkedIn**: [João Victor Comin](https://www.linkedin.com/in/joaovictorcomin)
