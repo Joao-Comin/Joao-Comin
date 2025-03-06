@@ -1,4 +1,4 @@
-# 👋 **Olá! Eu sou João Victor Comin**
+
 - 🌱 **Desenvolvedor**.
 - 🚀 **Estou aprendendo** e aplicando tecnologias como PHP,Laravel, Tailwind CSS, Alpine.js, Livewire, TallStack e Filament.
 - 📫 **Entre em contato**: [joaovictorcomin2005@gmail.com](mailto:joaovictorcomin2005@gmail.com)
